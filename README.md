@@ -1,2 +1,0 @@
-# Versatilex
-scrims bot
